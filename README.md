@@ -1,6 +1,6 @@
 # MyCircleProgressBar
 自定义圆形进度条
-![[Image](https://github.com/jtsky/MyCircleProgressBar/tree/master/ImageFolder/1.png)
+![效果图](https://github.com/jtsky/MyCircleProgressBar/tree/master/ImageFolder/1.png)
 将项目作为第三方类库直接引用
 在布局文件中添加如下代码（作为一般的控件用）：
 <com.gxl.circleprogress.library.view.MyProgressView
